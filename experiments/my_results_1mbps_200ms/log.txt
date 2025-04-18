@@ -1,0 +1,4 @@
+# Sample log.txt
+Throughput: 12000 kbps
+RTT: 50 ms
+Loss: 0.3%
